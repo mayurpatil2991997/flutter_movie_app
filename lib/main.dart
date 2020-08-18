@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instagram_ui/app.dart';
+import 'package:movie_app/app.dart';
 
 void main() async {
   runApp(App());

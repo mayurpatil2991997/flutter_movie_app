@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:instagram_ui/routes/routes.dart' as route;
+import 'package:movie_app/routes/routes.dart' as route;
+import 'package:movie_app/screen/movie/movie_screen.dart';
 
 class App extends StatefulWidget {
   @override
